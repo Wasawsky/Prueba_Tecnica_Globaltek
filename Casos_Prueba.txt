@@ -1,0 +1,11 @@
+[{nombre: "John", apellido: "Doe"}, {nombre: "Jane", apellido: null}, {nombre: "Jose", apellido: "Doe"}]
+{apellido: "Doe"}
+
+[{nombre: "John", apellido: "Doe"}, {nombre: "Jane", apellido: null}, {nombre: "Jose", apellido: "Doe"},{nombre: "Lucas", apellido: "Coronel"}, {nombre: "Armando", apellido: "Bedoya"}]
+{nombre: "Armando"}
+
+[{nombre: "John", apellido: "Doe", telefono: "123456789"}, {nombre: "Jane", apellido: null}, {nombre: "Jose", apellido: "Doe", fechaCumpleaños: "25-06-1987"},{nombre: "Lucas", apellido: "Coronel"}, {nombre: "Armando", apellido: "Bedoya"}]
+{apellido: "Doe"}
+
+[{nombre: "John", apellido: "Doe", telefono: "123456789"}, {nombre: "Jane", apellido: null}, {nombre: "Jose", apellido: "Doe", fechaCumpleaños: "25-06-1987"},{nombre: "Lucas", apellido: "Coronel", telefono: "987654321"}, {nombre: "Armando", apellido: "Bedoya"}]
+{telefono: "987654321"}
